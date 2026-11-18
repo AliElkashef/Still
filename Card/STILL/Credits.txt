@@ -1,0 +1,14 @@
+# Still sound credits
+
+Audio distributed with Still was sourced from Blanket:
+https://github.com/rafaelmardojai/blanket/blob/master/SOUNDS_LICENSING.md
+
+| File | Recording | Creator | License |
+| --- | --- | --- | --- |
+| rain.pcm | [rain ambience](https://freesound.org/people/alex36917/sounds/524605/) | alex36917, edited for Blanket by Porrumentzio | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| fireplace.pcm | [Fireplace](https://soundbible.com/1543-Fireplace.html) | ezwa | Public domain, as credited by Blanket |
+| wind.pcm | [wind](https://freesound.org/people/felix.blume/sounds/217506/) | felix.blume | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| birds.pcm | [birds](https://freesound.org/people/kvgarlic/sounds/156826/) | kvgarlic, edited for Blanket by Porrumentzio | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+
+Still converts the Blanket versions to 16 kHz mono unsigned 8-bit PCM. The
+firmware balances the channels and limits peaks in the live mix.
