@@ -2,7 +2,7 @@
 
 # Still
 
-<img src="images/still-poster.png" alt="Still product poster with the Rain garden and Woodland mixer screens" width="100%">
+<img src="images/still-poster.png" alt="Still product poster showing the Rain garden interface on an ESP32 CYD board mockup" width="100%">
 
 ### A little screen for a quieter room.
 
